@@ -1,0 +1,25 @@
+.inputs-acao-boleto{
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+}
+
+.botao-acao{
+    width: 90%;
+    margin-bottom: 10px;
+}
+
+.card-acao-boleto{
+    width: 20%;
+    display: flex;
+    align-items: center;
+}
+
+#acoes-boleto{
+    display: flex;
+    gap: 50px;
+}
+
+h1{
+    margin-top: 30px;
+}

@@ -1,4 +1,6 @@
-class Repositorio {
+import {Boleto} from '../Boleto';
+
+export class Repositorio {
 
     private boletos: Boleto[];
     constructor() {

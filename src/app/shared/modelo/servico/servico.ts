@@ -1,4 +1,7 @@
-class Servico {
+import {Boleto} from '../Boleto';
+import {Repositorio} from '../repositorio/repositorio';
+
+export class Servico {
     private repositorio: Repositorio;
 
     constructor(){

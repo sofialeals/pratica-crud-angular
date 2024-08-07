@@ -1,4 +1,4 @@
-class Boleto {
+export class Boleto {
     private codigo:Number;
     private pagante:string;
     private valor:Number;
